@@ -1,0 +1,20 @@
+pre stage sono iniziati gli studi delle varie tecnologie suggerite dall'azienda, tra le quali:
+-react
+-redux
+-react-router
+-jwt
+-bootstrap
+-cors
+-rtk-query
+-mui
+
+i file giornalieri che verranno composti sarro con il seguente template:
+-diario del giorno (suddivisione in tempo più o meno precisa della giornata)
+-tecnologie di supporto (tecnologie utilizzate di supporto es. zoom git ecc ecc)
+-tecnologie primarie (tecnologie utilizzate per lo sviluppo o altro es. react ecc ecc)
+-parole per glossario (parole da inserire nel potenziale glossario)
+-bibliografia (url, testi e quant'altro possa essere utile per documentarsi sul materiale utilizzato)
+-extra (altre cose di cui non si è tenuto conto in questa sede) [se una voce va più di 3 volte su extra, va creata dall'aggiornamento seguente una nuova voce]
+
+
+i file di appunti giornalieri saranno salvati con il nome rapporto seguito da _ seguito da data in formato americano rapporto_2022_10_14

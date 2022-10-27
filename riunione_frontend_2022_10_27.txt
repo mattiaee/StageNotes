@@ -1,0 +1,11 @@
+Riunione Frontend (con Emanuele)
+
+-MUI:
+  tipo bootstrap
+  file tema per tutta app (theme.js) -> per link e quant'altro
+  servirà una lista (stack)
+_______________________
+-React_Router
+_______________________
+-Redux_RTK
+_______________________
